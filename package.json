@@ -1,0 +1,11 @@
+{
+  "name": "java-path-scan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "esprima": "^4.0.1",
+    "fs": "^0.0.1-security",
+    "glob": "^11.0.0"
+  }
+}
